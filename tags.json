@@ -1,0 +1,89 @@
+{
+  "AComp": {
+    "description": "Auto imported from components/aComp.vue"
+  },
+  "AllScripts": {
+    "description": "Auto imported from components/allScripts.vue"
+  },
+  "BComp": {
+    "description": "Auto imported from components/bComp.vue"
+  },
+  "BuiltComp": {
+    "description": "Auto imported from components/builtComp.vue"
+  },
+  "CComp": {
+    "description": "Auto imported from components/cComp.vue"
+  },
+  "DComp": {
+    "description": "Auto imported from components/dComp.vue"
+  },
+  "EComp": {
+    "description": "Auto imported from components/eComp.vue"
+  },
+  "FComp": {
+    "description": "Auto imported from components/fComp.vue"
+  },
+  "GComp": {
+    "description": "Auto imported from components/gComp.vue"
+  },
+  "HComp": {
+    "description": "Auto imported from components/hComp.vue"
+  },
+  "IComp": {
+    "description": "Auto imported from components/iComp.vue"
+  },
+  "JComp": {
+    "description": "Auto imported from components/jComp.vue"
+  },
+  "KComp": {
+    "description": "Auto imported from components/kComp.vue"
+  },
+  "LComp": {
+    "description": "Auto imported from components/lComp.vue"
+  },
+  "MComp": {
+    "description": "Auto imported from components/mComp.vue"
+  },
+  "NComp": {
+    "description": "Auto imported from components/nComp.vue"
+  },
+  "OComp": {
+    "description": "Auto imported from components/oComp.vue"
+  },
+  "PComp": {
+    "description": "Auto imported from components/pComp.vue"
+  },
+  "QComp": {
+    "description": "Auto imported from components/qComp.vue"
+  },
+  "RComp": {
+    "description": "Auto imported from components/rComp.vue"
+  },
+  "SComp": {
+    "description": "Auto imported from components/sComp.vue"
+  },
+  "SingleScript": {
+    "description": "Auto imported from components/singleScript.vue"
+  },
+  "TComp": {
+    "description": "Auto imported from components/tComp.vue"
+  },
+  "UComp": {
+    "description": "Auto imported from components/uComp.vue"
+  },
+  "VComp": {
+    "description": "Auto imported from components/vComp.vue"
+  },
+  "WComp": {
+    "description": "Auto imported from components/wComp.vue"
+  },
+  "XComp": {
+    "description": "Auto imported from components/xComp.vue"
+  },
+  "YComp": {
+    "description": "Auto imported from components/yComp.vue"
+  },
+  "ZComp": {
+    "description": "Auto imported from components/zComp.vue"
+  }
+}

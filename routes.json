@@ -1,0 +1,58 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\Work\\\\siteguru\\\\Asht Cab Frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_26d18c23"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "F:\\\\Work\\\\siteguru\\\\Asht Cab Frontend\\\\pages\\\\_slug\\\\index.vue",
+    "chunkName": "pages/_slug/index",
+    "_name": "_7c9d8d47"
+  },
+  {
+    "name": "slug-slug2",
+    "path": "/:slug/:slug2",
+    "component": "F:\\\\Work\\\\siteguru\\\\Asht Cab Frontend\\\\pages\\\\_slug\\\\_slug2\\\\index.vue",
+    "chunkName": "pages/_slug/_slug2/index",
+    "_name": "_2c2435df"
+  },
+  {
+    "name": "slug-slug2-slug3",
+    "path": "/:slug/:slug2/:slug3",
+    "component": "F:\\\\Work\\\\siteguru\\\\Asht Cab Frontend\\\\pages\\\\_slug\\\\_slug2\\\\_slug3\\\\index.vue",
+    "chunkName": "pages/_slug/_slug2/_slug3/index",
+    "_name": "_22532854"
+  },
+  {
+    "name": "slug-slug2-slug3-slug4",
+    "path": "/:slug/:slug2/:slug3/:slug4",
+    "component": "F:\\\\Work\\\\siteguru\\\\Asht Cab Frontend\\\\pages\\\\_slug\\\\_slug2\\\\_slug3\\\\_slug4\\\\index.vue",
+    "chunkName": "pages/_slug/_slug2/_slug3/_slug4/index",
+    "_name": "_203c602c"
+  },
+  {
+    "name": "slug-slug2-slug3-slug4-slug5",
+    "path": "/:slug/:slug2/:slug3/:slug4/:slug5",
+    "component": "F:\\\\Work\\\\siteguru\\\\Asht Cab Frontend\\\\pages\\\\_slug\\\\_slug2\\\\_slug3\\\\_slug4\\\\_slug5\\\\index.vue",
+    "chunkName": "pages/_slug/_slug2/_slug3/_slug4/_slug5/index",
+    "_name": "_2d1d43e1"
+  },
+  {
+    "name": "slug-slug2-slug3-slug4-slug5-slug6",
+    "path": "/:slug/:slug2/:slug3/:slug4/:slug5/:slug6",
+    "component": "F:\\\\Work\\\\siteguru\\\\Asht Cab Frontend\\\\pages\\\\_slug\\\\_slug2\\\\_slug3\\\\_slug4\\\\_slug5\\\\_slug6\\\\index.vue",
+    "chunkName": "pages/_slug/_slug2/_slug3/_slug4/_slug5/_slug6/index",
+    "_name": "_37017016"
+  },
+  {
+    "name": "slug-slug2-slug3-slug4-slug5-slug6-slug7",
+    "path": "/:slug/:slug2/:slug3/:slug4/:slug5/:slug6/:slug7",
+    "component": "F:\\\\Work\\\\siteguru\\\\Asht Cab Frontend\\\\pages\\\\_slug\\\\_slug2\\\\_slug3\\\\_slug4\\\\_slug5\\\\_slug6\\\\_slug7\\\\index.vue",
+    "chunkName": "pages/_slug/_slug2/_slug3/_slug4/_slug5/_slug6/_slug7/index",
+    "_name": "_6eb0c530"
+  }
+]
